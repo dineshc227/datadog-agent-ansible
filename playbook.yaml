@@ -1,0 +1,11 @@
+- name: Install Datadog Agent on all servers
+  hosts: servers
+  become: yes
+
+  roles:
+    - datadog- name: Install Datadog Agent on all servers
+  hosts: servers
+  become: yes
+
+  roles:
+    - datadog

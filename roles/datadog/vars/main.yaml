@@ -1,0 +1,3 @@
+datadog_api_key: "f5fbcc265dc9bc4927ec1b2b99602db5"
+datadog_site: "datadoghq.com"
+agent_major_version: 7
